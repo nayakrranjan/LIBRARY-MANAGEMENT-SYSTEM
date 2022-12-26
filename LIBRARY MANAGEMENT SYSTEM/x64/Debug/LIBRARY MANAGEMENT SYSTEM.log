@@ -1,0 +1,8 @@
+﻿  LIBRARY MANAGEMENT SYSTEM.cpp
+C:\Users\rasmi\source\repos\LIBRARY MANAGEMENT SYSTEM\LIBRARY MANAGEMENT SYSTEM.cpp(208,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\rasmi\source\repos\LIBRARY MANAGEMENT SYSTEM\LIBRARY MANAGEMENT SYSTEM.cpp(237,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\rasmi\source\repos\LIBRARY MANAGEMENT SYSTEM\LIBRARY MANAGEMENT SYSTEM.cpp(375,38): warning C4309: 'initializing': truncation of constant value
+C:\Users\rasmi\source\repos\LIBRARY MANAGEMENT SYSTEM\LIBRARY MANAGEMENT SYSTEM.cpp(426,38): warning C4309: 'initializing': truncation of constant value
+C:\Users\rasmi\source\repos\LIBRARY MANAGEMENT SYSTEM\LIBRARY MANAGEMENT SYSTEM.cpp(397,17): warning C4101: 'bn': unreferenced local variable
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1096,5): error MSB6006: "link.exe" exited with code 1168.
+LINK : fatal error LNK1168: cannot open C:\Users\rasmi\source\repos\LIBRARY MANAGEMENT SYSTEM\x64\Debug\LIBRARY MANAGEMENT SYSTEM.exe for writing
